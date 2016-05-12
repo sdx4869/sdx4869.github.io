@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: https://github.com/reborn0009/reborn0009.github.io
   branch: master
-duoshuo_reborn0009: reborn0009
+
