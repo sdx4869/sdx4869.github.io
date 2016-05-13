@@ -69,6 +69,6 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/reborn0009/reborn0009.github.io
+  repo: https://github.com/sdx4869/sdx4869.github.io
   branch: master
 duoshuo_reborn0009: reborn0009
